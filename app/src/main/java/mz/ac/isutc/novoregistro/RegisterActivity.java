@@ -19,7 +19,7 @@ import mz.ac.isutc.novoregistro.databinding.ActivityRegisterBinding;
 public class RegisterActivity extends AppCompatActivity {
 
     private AppBarConfiguration mAppBarConfiguration;
-    private ActivityRegisterBinding binding ;
+    private ActivityRegisterBinding binding  ;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
